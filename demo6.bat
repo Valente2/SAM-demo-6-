@@ -108,3 +108,8 @@ sam -sing -speed 40 -pitch 38 -phonetic /hohohohohohohohohowm
 sam -sing -speed 40 -pitch 36 -phonetic ahahahahv
 sam -sing -speed 40 -pitch 42 -phonetic dhaaaxaxaxaxaxaxaxaxaxaxaxaxax
 sam -sing -speed 40 -pitch 48 -phonetic brehehehehehehehehehehiyiyiyv
+puase
+echo SAM orginaly made by Don't Ask Software
+echo used version by S-macke
+echo the text artist is unknown
+echo Extras coded by Valente
