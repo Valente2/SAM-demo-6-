@@ -113,3 +113,4 @@ echo SAM orginaly made by Don't Ask Software
 echo used version by S-macke
 echo the text artist is unknown
 echo Extras coded by Valente
+pause
